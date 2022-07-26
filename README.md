@@ -14,15 +14,23 @@
 *  CSS/HTML/Bootstrap
 
 ### 頁面實際操作
+* 修改
+修改前
+![image](https://github.com/kangyunxuan/drama_intro_platform/blob/main/%E8%B3%87%E6%96%99%E5%BA%AB%E5%B0%88%E6%A1%88final/images/修改.png)
+修改後
+![image](https://github.com/kangyunxuan/drama_intro_platform/blob/main/%E8%B3%87%E6%96%99%E5%BA%AB%E5%B0%88%E6%A1%88final/images/修改2.png)
 
+* 新增
+新增前
+![image](https://github.com/kangyunxuan/drama_intro_platform/blob/main/%E8%B3%87%E6%96%99%E5%BA%AB%E5%B0%88%E6%A1%88final/images/新增.png)
+新增後
+![image](https://github.com/kangyunxuan/drama_intro_platform/blob/main/%E8%B3%87%E6%96%99%E5%BA%AB%E5%B0%88%E6%A1%88final/images/新增2.png)
 
-
-
-
-
-
-
-
+* 刪除
+刪除前
+![image](https://github.com/kangyunxuan/drama_intro_platform/blob/main/%E8%B3%87%E6%96%99%E5%BA%AB%E5%B0%88%E6%A1%88final/images/刪除.png)
+刪除後
+![image](https://github.com/kangyunxuan/drama_intro_platform/blob/main/%E8%B3%87%E6%96%99%E5%BA%AB%E5%B0%88%E6%A1%88final/images/刪除2.png)
 
 
 
