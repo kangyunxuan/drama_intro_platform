@@ -1,0 +1,103 @@
+.icon{
+    height:10%;
+    width:10%;
+    padding: 5px;
+    margin-left: 10px;
+}
+#btn_collect{
+    background-color: #FFCCCC;
+    margin: 10px;
+}
+#form{
+    float:right;
+    margin-top: 95px;
+    margin-right: 10px;
+}
+.photo{
+    width: 189px;
+    height: 266px;
+}
+#topic{
+    text-align: center;
+    display: inline ;
+}
+.con{
+    font-family: 'Noto Serif TC', serif;
+}
+#header{
+    background: #99CCFF;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+}
+/*搜尋欄樣式*/
+#searchstyle{
+    color: #99CCFF;
+    border-color: #99CCFF;
+}
+/* This is modifying the btn-primary colors but you could create your own .btn-something class as well */
+.btn-primary {
+    color: #fff;
+    background-color: #fff !important;
+    border-color: #357ebd; /*set the color you want here*/
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #FFFFCC !important;
+    border-color: #285e8e; /*set the color you want here*/
+} 
+
+
+#demo{
+    padding:10px;
+}
+#main{
+    margin:10px;
+    padding: 0.665px;
+    width: 100%;
+}
+.name{
+    text-align: center;
+    font-family: 'Noto Serif TC', serif;
+}
+.drama{
+    height: auto;
+    float: left;
+    padding: 7.5px; 
+}
+.ct {
+    text-align: center;/*使所有class=ct的區塊字都置中*/
+}
+/* .pp {
+    background: 	#DBC8B6;
+} */
+.all td {
+    min-width: 50px;
+    padding: 10px;
+}
+/* .tt {
+    background: #B9D3DC;
+} */
+.all {
+    width: 90%;
+    margin: 10px auto 10px auto;
+}
+.fb {
+    font-size: 26px;
+    font-weight: bolder;
+}
+.folder{
+    height:40px;
+}
